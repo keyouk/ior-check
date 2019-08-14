@@ -3,6 +3,7 @@
 This allows you to easily check certain material's ior values on your linux shell.
 
 
+
 To use the script:
 
 -Download both files and save them in a folder of your choice. Mine are both saved under ~/Documents/scripts.
