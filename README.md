@@ -20,3 +20,5 @@ ior mtl
 replace the word 'mtl' for the material you're looking for. For example:
 
 ior gold
+
+This will find the ior value of gold.
