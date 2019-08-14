@@ -1,2 +1,2 @@
-cd ~/Documents/scripts/kevin_ior;
+cd ~/Documents/scripts;
 cat ior.csv | grep -i $1 | sort -u;
