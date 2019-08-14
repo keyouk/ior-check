@@ -7,9 +7,9 @@ To use the script:
 
 -Download both files and save them in a folder of your choice. Mine are both saved under ~/Documents/scripts.
 
--Open the .sh file and make sure the cd command is taking you to the folder where your .csv file was saved.
+-Open the .sh file and make sure the cd command points to where your .csv file was saved.
 
--Create an alias that sources the .sh file and save. For example:
+-Create an alias called ior that sources the .sh file and then save it. For example:
 
 alias ior 'source ~/Documents/scripts/ior.sh'
 
