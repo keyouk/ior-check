@@ -5,7 +5,10 @@ This allows you to easily check certain material's ior values on your linux shel
 
 To use the script:
 
--Download both files and save them in a folder of your choice
+-Download both files and save them in a folder of your choice. Mine are both saved under ~/Documents/scripts.
+
+-Open the .sh file and make sure the cd command is taking you to the folder where your .csv file was saved.
+
 -Create an alias that sources the .sh file and save. For example:
 
 alias ior 'source ~/Documents/scripts/ior.sh'
