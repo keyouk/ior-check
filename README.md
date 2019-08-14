@@ -16,11 +16,11 @@ alias ior 'source ~/Documents/scripts/ior.sh'
 
 
 ## Usage
-1. Now, when you open your shell, you can type:
+Now, when you open your shell, you can type:
 
 ```ior mtl```
 
-2. replace the word 'mtl' for the material you're looking for. For example:
+replace the word 'mtl' for the material you're looking for. For example:
 
 ```ior gold```
 
